@@ -31,10 +31,5 @@ sftp-config.json
 
 #proui stuff to ignore
 
-css
-img
-inc
-js
-!js/dgjs
 page_*.php
 
